@@ -1,0 +1,12 @@
+DEBUG | 2018-11-21 13:50:28 | [main] logging.Log4j2Example (Log4j2Example.java:14) - debug
+INFO  | 2018-11-21 13:50:28 | [main] logging.Log4j2Example (Log4j2Example.java:15) - info
+WARN  | 2018-11-21 13:50:28 | [main] logging.Log4j2Example (Log4j2Example.java:16) - warn
+ERROR | 2018-11-21 13:50:28 | [main] logging.Log4j2Example (Log4j2Example.java:17) - error
+FATAL | 2018-11-21 13:50:28 | [main] logging.Log4j2Example (Log4j2Example.java:18) - fatal
+INFO  | 2018-11-21 13:50:28 | [main] logging.Log4j2Example (Log4j2Example.java:19) - Appending string : Hello, World.
+DEBUG | 2018-11-21 13:51:49 | [main] logging.Log4j2Example (Log4j2Example.java:14) - debug
+INFO  | 2018-11-21 13:51:49 | [main] logging.Log4j2Example (Log4j2Example.java:15) - info
+WARN  | 2018-11-21 13:51:49 | [main] logging.Log4j2Example (Log4j2Example.java:16) - warn
+ERROR | 2018-11-21 13:51:49 | [main] logging.Log4j2Example (Log4j2Example.java:17) - error
+FATAL | 2018-11-21 13:51:49 | [main] logging.Log4j2Example (Log4j2Example.java:18) - fatal
+INFO  | 2018-11-21 13:51:49 | [main] logging.Log4j2Example (Log4j2Example.java:19) - Appending string : Hello, World.
